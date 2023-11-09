@@ -1,0 +1,38 @@
+main{
+   background-color: aquamarine;
+   text-align: center;
+}
+
+#contenitore{
+    background-color: rgb(226, 95, 95);
+    width: 100%;
+}
+
+
+
+.listItem{
+    color: white;
+}
+
+#contenitore ul li{
+    list-style-type: none;
+    width: 10%;
+    margin: 0.5%;
+    display: inline-block;
+    text-align: center;
+    background-color: blue;
+    height: 10vh;
+    border-radius: 10px;
+    border: 2px solid black;
+}
+
+#bottone{
+    background-color: violet;
+    height: 10vh;
+    font-size: 50px;
+}
+
+.numeriTabella{
+    color: white;
+    font-size: 50px;
+}
